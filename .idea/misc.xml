@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMIdeaPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2085" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_audio.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_camera.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_card.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_contentd_provider.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_db_save.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_file_save.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_fragment.xml" value="0.1" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_fruit.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_jetpack.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_material.xml" value="0.264" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_net.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_notification.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_rcv.xml" value="0.12132725430597771" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_service.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_sp_save.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/activity_web_view.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/fragment_left.xml" value="0.109375" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/item_fruit.xml" value="0.1956521739130435" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/item_msg_left.xml" value="0.1" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/layout/item_msg_right.xml" value="0.25" />
+        <entry key="..\:/ASdemo/FiristCode/app/src/main/res/menu/toolbar.xml" value="0.24947916666666667" />
+        <entry key="..\:/Program Files/ASdemo/FiristCode/activitytest/src/main/res/layout/activity_second.xml" value="0.11956521739130435" />
+        <entry key="..\:/Program Files/ASdemo/FiristCode/activitytest/src/main/res/layout/first_layout.xml" value="0.264" />
+        <entry key="..\:/Program Files/ASdemo/FiristCode/activitytest/src/main/res/menu/main.xml" value="0.225" />
+        <entry key="..\:/Program Files/ASdemo/FiristCode/app/src/main/res/layout/activity_main.xml" value="0.11956521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

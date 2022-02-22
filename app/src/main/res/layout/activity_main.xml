@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="fragment" />
+
+    <Button
+        android:id="@+id/btn_rcv"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="rcv" />
+
+    <Button
+        android:id="@+id/btn_offline"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="offline" />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="save" />
+
+    <Button
+        android:id="@+id/btn_content_provider"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="content_provider" />
+
+    <Button
+        android:id="@+id/btn_notification"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="notification" />
+
+    <Button
+        android:id="@+id/btn_camera"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="camera" />
+
+    <Button
+        android:id="@+id/btn_audio"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="audio" />
+
+    <Button
+        android:id="@+id/btn_service"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="service" />
+
+    <Button
+        android:id="@+id/btn_webView"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="webView" />
+
+    <Button
+        android:id="@+id/btn_net"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="net" />
+
+    <Button
+        android:id="@+id/btn_material_design"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="material_design" />
+
+    <Button
+        android:id="@+id/btn_jetpack"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="jetpack" />
+
+</LinearLayout>

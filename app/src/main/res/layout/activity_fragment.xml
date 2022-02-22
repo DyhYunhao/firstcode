@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".fragment.FragmentActivity">
+
+    <fragment
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/fragment_left"
+        android:name="com.dyh.firistcode.fragment.LeftFragment" />
+
+<!--    静态注册-->
+<!--    <fragment-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_weight="1"-->
+<!--        android:id="@+id/fragment_right"-->
+<!--        android:name="com.dyh.firistcode.fragment.RightFragment" />-->
+
+<!--    动态注册-->
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/layout_right"
+        android:layout_weight="1" />
+</LinearLayout>
